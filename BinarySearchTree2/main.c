@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-/* Find the minimum value in Binary Search Tree.
+/* Find the minimum and maximum value in Binary Search Tree.
    */
 
 typedef struct BstNode{
